@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails',        '5.1.4'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+gem 'faker'
 gem 'bcrypt'
 gem 'bootstrap-sass', require: true
 gem 'puma',         '3.9.1'
